@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Ham burger"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Chips and pizza"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Bread"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "finish up monitor balance"
+    }
+  ]
+}
